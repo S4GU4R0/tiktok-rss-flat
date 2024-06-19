@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@nabaliaid</id>
   <title>nabaliaid TikTok</title>
-  <updated>2024-06-18T18:54:22+00:00</updated>
+  <updated>2024-06-19T17:29:52+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://S4GU4R0.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from nabaliaid</subtitle>
-  <entry>
-    <id>https://tiktok.com/@nabaliaid/video/7377914072404102430</id>
-    <title>@alaa22sarhan Please follow, donate, or adopt this family today!!! @bohohippiehistorian @s4gu4r0 @cryscables4th @goodmans_wife</title>
-    <updated>2024-06-08T00:01:27+00:00</updated>
-    <content>@alaa22sarhan Please follow, donate, or adopt this family today!!! @bohohippiehistorian @s4gu4r0 @cryscables4th @goodmans_wife</content>
-    <link href="https://tiktok.com/@nabaliaid/video/7377914072404102430"/>
-    <published>2024-06-08T00:01:27+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@nabaliaid/video/7377916541834235179</id>
     <title>@ziaddiaz @hasanhadan56564 </title>
@@ -163,5 +155,13 @@
     <content>#greenscreensticker #receipts </content>
     <link href="https://tiktok.com/@nabaliaid/video/7381918585989451051"/>
     <published>2024-06-18T18:54:22+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@nabaliaid/video/7382264748189994270</id>
+    <title>@alaa71637 Layan is very sick and needs medical treatment immediately. She has hepatitis from the sanitation issues within the encampments. Please help her family so she can get back to being the happy, energetic little girl she usually is. @pal.humanity </title>
+    <updated>2024-06-19T17:29:52+00:00</updated>
+    <content>@alaa71637 Layan is very sick and needs medical treatment immediately. She has hepatitis from the sanitation issues within the encampments. Please help her family so she can get back to being the happy, energetic little girl she usually is. @pal.humanity </content>
+    <link href="https://tiktok.com/@nabaliaid/video/7382264748189994270"/>
+    <published>2024-06-19T17:29:52+00:00</published>
   </entry>
 </feed>
