@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@nabaliaid</id>
   <title>nabaliaid TikTok</title>
-  <updated>2024-06-19T20:24:21+00:00</updated>
+  <updated>2024-06-22T02:48:23+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://S4GU4R0.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from nabaliaid</subtitle>
-  <entry>
-    <id>https://tiktok.com/@nabaliaid/video/7377916897989283102</id>
-    <title>@a7medjabal Please follow, donate or adopt this family today!!! @bohohippiehistorian @s4gu4r0 @cryscables4th @goodmans_wife</title>
-    <updated>2024-06-08T00:11:11+00:00</updated>
-    <content>@a7medjabal Please follow, donate or adopt this family today!!! @bohohippiehistorian @s4gu4r0 @cryscables4th @goodmans_wife</content>
-    <link href="https://tiktok.com/@nabaliaid/video/7377916897989283102"/>
-    <published>2024-06-08T00:11:11+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@nabaliaid/video/7377918472216399147</id>
     <title>@Alaa If youre interested in adopting this family, please reach out. Otherwise hit thise four buttons and follow the tagged creator. @cryscable @Jessica Goodman @S4GU4R0 @Boho Hippie Historian @BohoHippieHistorian2 </title>
@@ -163,5 +155,13 @@
     <content>@alaa22sarhan</content>
     <link href="https://tiktok.com/@nabaliaid/video/7382308191897537822"/>
     <published>2024-06-19T20:24:21+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@nabaliaid/video/7383150356156468510</id>
+    <title>@shahednhell Go follow our new friend, Shahed. Check out her content and b!0!! @bohohippiehistorian @s4gu4r0 @goodmans_wife @christinamichelle1979 @alphabender</title>
+    <updated>2024-06-22T02:48:23+00:00</updated>
+    <content>@shahednhell Go follow our new friend, Shahed. Check out her content and b!0!! @bohohippiehistorian @s4gu4r0 @goodmans_wife @christinamichelle1979 @alphabender</content>
+    <link href="https://tiktok.com/@nabaliaid/video/7383150356156468510"/>
+    <published>2024-06-22T02:48:23+00:00</published>
   </entry>
 </feed>
