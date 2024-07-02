@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@nabaliaid</id>
   <title>nabaliaid TikTok</title>
-  <updated>2024-07-02T02:02:36+00:00</updated>
+  <updated>2024-07-02T14:31:34+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://S4GU4R0.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from nabaliaid</subtitle>
-  <entry>
-    <id>https://tiktok.com/@nabaliaid/video/7382308191897537822</id>
-    <title>@alaa22sarhan</title>
-    <updated>2024-06-19T20:24:21+00:00</updated>
-    <content>@alaa22sarhan</content>
-    <link href="https://tiktok.com/@nabaliaid/video/7382308191897537822"/>
-    <published>2024-06-19T20:24:21+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@nabaliaid/video/7383150356156468510</id>
     <title>@shahednhell Go follow our new friend, Shahed. Check out her content and b!0!! @bohohippiehistorian @s4gu4r0 @goodmans_wife @christinamichelle1979 @alphabender</title>
@@ -91,5 +83,13 @@
     <content>Meet the Anbar family! They are in need of your help! Please do all the things and if you can make a contribution! You can find them on our list! #childrenmatter #familyislove #mutualaid #prayforpalestine #familysupport #littlefamily</content>
     <link href="https://tiktok.com/@nabaliaid/video/7386853051023314219"/>
     <published>2024-07-02T02:02:36+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@nabaliaid/video/7387046052194651438</id>
+    <title>We had a win! We successfully made our first transfer to a family on our list! #successful #donation #littlewins #helpingpeople #successgoals #peoplehelpingpeople #teamsuccess #successtory #celebration🎉</title>
+    <updated>2024-07-02T14:31:34+00:00</updated>
+    <content>We had a win! We successfully made our first transfer to a family on our list! #successful #donation #littlewins #helpingpeople #successgoals #peoplehelpingpeople #teamsuccess #successtory #celebration🎉</content>
+    <link href="https://tiktok.com/@nabaliaid/video/7387046052194651438"/>
+    <published>2024-07-02T14:31:34+00:00</published>
   </entry>
 </feed>
